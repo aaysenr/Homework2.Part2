@@ -1,0 +1,14 @@
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

@@ -1,0 +1,14 @@
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\bin\Debug\net8.0\RefrenceTypes.exe
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\bin\Debug\net8.0\RefrenceTypes.deps.json
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\bin\Debug\net8.0\RefrenceTypes.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\bin\Debug\net8.0\RefrenceTypes.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\bin\Debug\net8.0\RefrenceTypes.pdb
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\refint\RefrenceTypes.dll
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.pdb
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\RefrenceTypes.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Solut2.2\RefrenceTypes\obj\Debug\net8.0\ref\RefrenceTypes.dll
